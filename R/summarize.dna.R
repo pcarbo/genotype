@@ -1,4 +1,6 @@
-# TO DO: Explain here what this script does.
+# This R script provides a brief summary of the genotype data stored
+# in a text file downloaded from an AncestryDNA account
+# (https://dna.ancestry/com/rawDownload).
 source("functions.R")
 
 # SCRIPT PARAMETERS

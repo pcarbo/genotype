@@ -1,11 +1,12 @@
-# TO DO: Explain here what this script does.
+# This R script compares the genotypes stored in text files downloaded
+# from an AncestryDNA account (https://dna.ancestry/com/rawDownload).
 source("functions.R")
 
 # SCRIPT PARAMETERS
 # -----------------
 # Tab-delimited "raw DNA" text files downloaded from ancestry.com.
 geno.file1 <- "ancestrydna_peter_carbonetto.txt.gz"
-geno.file2 <- "ancestrydna_lenora_carbonetto.txt.gz"
+geno.file2 <- "ancestrydna_sal_carbonetto.txt.gz"
 
 # READ GENOTYPE DATA
 # ------------------
