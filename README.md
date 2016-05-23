@@ -1,7 +1,7 @@
 # genotype
 Various scripts and functions for manipulating genetic data.
 
-# Useful links
+# Useful Web resources
 
 + Human chromosomes
   [link](http://visuals.nci.nih.gov/details.cfm?imageid=2721).
@@ -9,6 +9,10 @@ Various scripts and functions for manipulating genetic data.
 + UCSC Genome Browser
   [link](http://genome.ucsc.edu/cgi-bin/hgGateway).
 
-+ Paper showing that gene *EGLN1* contributes to adaptation of
-  high-altitude environments in Tibet
-  [link](http://dx.doi.org/10.1126/science.1189406).
++ GWAS Catalog [link](http://www.ebi.ac.uk/gwas).
+
++ Paper showing that *EGLN1* gene variants contribute to adaptation of
+  high-altitude environments
+  [link](http://dx.doi.org/10.1073/pnas.1006108107). Example of
+  associated SNP: rs480902. (T allele is more frequent in
+  high-altitude populations.)
