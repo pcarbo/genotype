@@ -3,6 +3,11 @@ Various scripts and functions for manipulating genetic data.
 
 # Useful Web resources
 
++ Illumina OmniExpress genotyping array
+  [link](http://www.illumina.com/products/human_omni_express_beadchip_kits.html).
+
++ Ancestry [link](http://www.ancestry.com).
+
 + Human chromosomes
   [link](http://visuals.nci.nih.gov/details.cfm?imageid=2721).
 
